@@ -1,0 +1,16 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "My First Blog",
+            "content": "This is my first blog post",
+            "author": "John Doe"
+        },
+        {
+            "id": 2,
+            "title": "Learning Angular",
+            "content": "Angular is an awesome framework Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum, praesentium natus amet iste dolore, porro sed quos obcaecati explicabo dolorem velit cum quidem, voluptates dolores at veritatis est ipsam ipsa?",
+            "author": "Jane Smith"
+        }
+    ]
+}
